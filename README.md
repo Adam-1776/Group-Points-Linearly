@@ -5,7 +5,7 @@
 
 **Compilation**: 
 * Download the files in this repository, and open its containing folder
-* In your terminal compile lines.cpp using `g++ lines.cpp`
+* Use your terminal to compile *lines.cpp* using `g++ lines.cpp`
 
 **Execution**:
 * The input method is a text file that contains the coordinates to be tested.

@@ -1,4 +1,4 @@
-# Finding the aximum number of points that are collinear using a bruteforce approach
+# Finding the maximum number of points that are collinear using a bruteforce approach
 
 **Requirements**:
 * Any C++ compiler <br>

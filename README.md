@@ -1,4 +1,4 @@
-# Maximum number of points that are colinar
+# Maximum number of points that are co-linear
 
 **Requirements**:
 * Any C++ compiler <br>

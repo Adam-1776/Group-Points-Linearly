@@ -14,5 +14,6 @@
 * Example: `./a.exe data.txt`
 
 **Sample Output**: <br>
-![image](https://user-images.githubusercontent.com/22039575/132993415-406720f4-3171-41a9-8199-6ce4c1bc855f.png)
+![image](https://user-images.githubusercontent.com/22039575/132993448-6c83a799-381b-441c-90c5-10108f0caf64.png)
+
 
